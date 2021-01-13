@@ -1,2 +1,2 @@
 # treinamentobs
-blablabla
+treinamento corporativo
